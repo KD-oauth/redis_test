@@ -17,11 +17,11 @@ public class TestClass {
     @Autowired
     TestService testService;
 
-    @Test
-    public void test(){
-        testService.saveUserAccessLog();
-        System.out.println("哈哈");
-    }
+//    @Test
+//    public void test(){
+//        testService.saveUserAccessLog();
+//        System.out.println("哈哈");
+//    }
 
     @Test
     public void testAdd(){
