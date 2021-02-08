@@ -1,8 +1,8 @@
 spring:
   datasource:
-    url: jdbc:mysql://xxx:3306/zfc_test?useUnicode=true&characterEncoding=utf-8&useSSL=false
+    url: jdbc:mysql://129.211.75.230:3306/test?useUnicode=true&characterEncoding=utf-8&useSSL=false
     username: root
-    password: root
+    password: 123456
     driver-class-name: com.mysql.jdbc.Driver
   redis:
     database: 0

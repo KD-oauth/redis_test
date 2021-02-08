@@ -76,4 +76,8 @@ public class TestService {
         redisUtils.expire("userLiveCount",1);
     }
 
+    public int add(int a,int b){
+        return a+b;
+    }
+
 }
