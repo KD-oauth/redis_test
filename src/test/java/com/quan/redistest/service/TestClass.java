@@ -28,4 +28,10 @@ public class TestClass {
         int res = testService.add(1,2);
         System.out.println(res);
     }
+
+    @Test
+    public void test2(){
+        int res = testService.add2(1,2);
+        System.out.println(res);
+    }
 }

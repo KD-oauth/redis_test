@@ -76,6 +76,10 @@ public class TestService {
         redisUtils.expire("userLiveCount",1);
     }
 
+    public int add2(int a,int b){
+        return a+b;
+    }
+
     public int add(int a,int b){
         StringBuilder sb = new StringBuilder();
         sb.append("1");
