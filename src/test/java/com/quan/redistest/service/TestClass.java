@@ -23,11 +23,11 @@ public class TestClass {
 //        System.out.println("哈哈");
 //    }
 
-    @Test
-    public void testAdd(){
-        int res = testService.add(1,2);
-        System.out.println(res);
-    }
+//    @Test
+//    public void testAdd(){
+//        int res = testService.add(1,2);
+//        System.out.println(res);
+//    }
 
 //    @Test
 //    public void test2(){
