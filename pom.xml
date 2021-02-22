@@ -140,9 +140,6 @@
                 <version>0.8.6</version>
                 <configuration>
                     <skip>false</skip>
-                    <includes>
-                        <include>**/service/**</include>
-                    </includes>
                 </configuration>
                 <executions>
                     <execution>
